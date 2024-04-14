@@ -12,9 +12,9 @@
 
 以下是一些示例表情，带给您一些视觉上的享受：
 
-- ![linedog-不要](https://cdn.jsdelivr.net/gh/willow-god/owo-linedog/linedog-不要.gif) `linedog-不要`: 表达不要的态度，憨态可掬。
-- ![linedog-加油](https://cdn.jsdelivr.net/gh/willow-god/owo-linedog/linedog-加油.gif) `linedog-加油`: 鼓励加油，战胜困难。
-- ![linedog-惊讶](https://cdn.jsdelivr.net/gh/willow-god/owo-linedog/linedog-惊讶.gif) `linedog-惊讶`: 惊讶的表情，眼睛瞪得圆圆的，十分可爱。
+- ![linedog-不要](https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-不要.gif) `linedog-不要`: 表达不要的态度，憨态可掬。
+- ![linedog-加油](https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-加油.gif) `linedog-加油`: 鼓励加油，战胜困难。
+- ![linedog-惊讶](https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-惊讶.gif) `linedog-惊讶`: 惊讶的表情，眼睛瞪得圆圆的，十分可爱。
 
 ## 如何使用
 
