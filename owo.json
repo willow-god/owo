@@ -396,5 +396,1570 @@
         "text": "linedog-颓废"
       }
     ]
+  },
+  "小电视": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">",
+        "text": "tv_doge"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/a8111ad55953ef5e3be3327ef94eb4a39d535d06.png\">",
+        "text": "tv_亲亲"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/bb690d4107620f1c15cff29509db529a73aee261.png\">",
+        "text": "tv_偷笑"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png\">",
+        "text": "tv_再见"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png\">",
+        "text": "tv_冷漠"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png\">",
+        "text": "tv_发怒"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34db290afd2963723c6eb3c4560667db7253a21a.png\">",
+        "text": "tv_发财"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png\">",
+        "text": "tv_可爱"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/09dd16a7aa59b77baa1155d47484409624470c77.png\">",
+        "text": "tv_吐血"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png\">",
+        "text": "tv_呆"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9f996894a39e282ccf5e66856af49483f81870f3.png\">",
+        "text": "tv_呕吐"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/241ee304e44c0af029adceb294399391e4737ef2.png\">",
+        "text": "tv_困"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/1f0b87f731a671079842116e0991c91c2c88645a.png\">",
+        "text": "tv_坏笑"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/093c1e2c490161aca397afc45573c877cdead616.png\">",
+        "text": "tv_大佬"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/23269aeb35f99daee28dda129676f6e9ea87934f.png\">",
+        "text": "tv_大哭"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png\">",
+        "text": "tv_委屈"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png\">",
+        "text": "tv_害羞"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png\">",
+        "text": "tv_尴尬"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png\">",
+        "text": "tv_微笑"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/90cf159733e558137ed20aa04d09964436f618a1.png\">",
+        "text": "tv_思考"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">",
+        "text": "tv_惊吓"
+      }
+    ]
+  },
+  "方块脸": {
+    "type": "image",
+    "container": [
+      {
+        "text": "Heybox—微笑",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube.png'>"
+      },
+      {
+        "text": "Heybox—并不简单",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_bingbujiandan.png'>"
+      },
+      {
+        "text": "Heybox-闭嘴",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_bizui.png'>"
+      },
+      {
+        "text": "Heybox-沧桑",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_cangsang.png'>"
+      },
+      {
+        "text": "Heybox-打脸",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_dalian.png'>"
+      },
+      {
+        "text": "Heybox-狗头",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_doge.png'>"
+      },
+      {
+        "text": "Heybox-感动",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_gandong.png'>"
+      },
+      {
+        "text": "Heybox-乖",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_guai.png'>"
+      },
+      {
+        "text": "Heybox-咕咕",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_gugu.png'>"
+      },
+      {
+        "text": "Heybox-汉",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_han.png'>"
+      },
+      {
+        "text": "Heybox-expression_cube_黑人问号",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_heirenwenhao.png'>"
+      },
+      {
+        "text": "Heybox-滑稽",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_huaji.png'>"
+      },
+      {
+        "text": "Heybox-加油",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_jiayou.png'>"
+      },
+      {
+        "text": "Heybox-惊讶",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_jingya.png'>"
+      },
+      {
+        "text": "Heybox-开心",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_kaixin.png'>"
+      },
+      {
+        "text": "Heybox-哭",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_ku.png'>"
+      },
+      {
+        "text": "Heybox-困",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_kun.png'>"
+      },
+      {
+        "text": "Heybox-哭泣",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_kuqi.png'>"
+      },
+      {
+        "text": "Heybox-怒",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_nu.png'>"
+      },
+      {
+        "text": "Heybox-喷水",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_penshui.png'>"
+      },
+      {
+        "text": "Heybox-凄凉",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_qiliang.png'>"
+      },
+      {
+        "text": "Heybox-生气",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_shengqi.png'>"
+      },
+      {
+        "text": "Heybox-睡觉",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_shuijiao.png'>"
+      },
+      {
+        "text": "Heybox-叹气",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_tanqi.png'>"
+      },
+      {
+        "text": "Heybox-摊手",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_tanshou.png'>"
+      },
+      {
+        "text": "Heybox-吐",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_tu.png'>"
+      },
+      {
+        "text": "Heybox-哇",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_wa.png'>"
+      },
+      {
+        "text": "Heybox-委屈",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_weiqu.png'>"
+      },
+      {
+        "text": "Heybox-微笑",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_weixiao.png'>"
+      },
+      {
+        "text": "Heybox-捂脸哭",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_wulianku.png'>"
+      },
+      {
+        "text": "Heybox-吓",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_xia.png'>"
+      },
+      {
+        "text": "Heybox-笑哭",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_xiaocry.png'>"
+      },
+      {
+        "text": "Heybox-喜欢",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_xihuan.png'>"
+      },
+      {
+        "text": "Heybox-学习",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_xuexi.png'>"
+      },
+      {
+        "text": "Heybox-晕",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_yun.png'>"
+      },
+      {
+        "text": "Heybox-赞",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/heybox/Heybox-cube_zan.png'>"
+      }
+    ]
+  },
+  "大圆脸": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-3d眼镜.png\"\u003E",
+        "text": "heo-3d眼镜"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-EDG.png\"\u003E",
+        "text": "heo-EDG"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-LPL.png\"\u003E",
+        "text": "heo-LPL"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-beluga.png\"\u003E",
+        "text": "heo-beluga"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-不好意思.png\"\u003E",
+        "text": "heo-不好意思"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-不服吗.png\"\u003E",
+        "text": "heo-不服吗"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-亲亲.png\"\u003E",
+        "text": "heo-亲亲"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-伞兵.png\"\u003E",
+        "text": "heo-伞兵"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-倚墙笑.png\"\u003E",
+        "text": "heo-倚墙笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-值得肯定.png\"\u003E",
+        "text": "heo-值得肯定"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-偷偷看.png\"\u003E",
+        "text": "heo-偷偷看"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-傻笑.png\"\u003E",
+        "text": "heo-傻笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-再见.png\"\u003E",
+        "text": "heo-再见"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-出家人.png\"\u003E",
+        "text": "heo-出家人"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-击剑.png\"\u003E",
+        "text": "heo-击剑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-加班.png\"\u003E",
+        "text": "heo-加班"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-勉强笑.png\"\u003E",
+        "text": "heo-勉强笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-危险.png\"\u003E",
+        "text": "heo-危险"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-发红包.png\"\u003E",
+        "text": "heo-发红包"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-吃手.png\"\u003E",
+        "text": "heo-吃手"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-吃瓜.png\"\u003E",
+        "text": "heo-吃瓜"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-吐血.png\"\u003E",
+        "text": "heo-吐血"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-吵架.png\"\u003E",
+        "text": "heo-吵架"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-呦吼.png\"\u003E",
+        "text": "heo-呦吼"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-呲牙笑.png\"\u003E",
+        "text": "heo-呲牙笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-哈士奇.png\"\u003E",
+        "text": "heo-哈士奇"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-哈士奇失去意识.png\"\u003E",
+        "text": "heo-哈士奇失去意识"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-哈士奇失望.png\"\u003E",
+        "text": "heo-哈士奇失望"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-哭泣.png\"\u003E",
+        "text": "heo-哭泣"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-唱歌.png\"\u003E",
+        "text": "heo-唱歌"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-喜欢.png\"\u003E",
+        "text": "heo-喜欢"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-嘿哈.png\"\u003E",
+        "text": "heo-嘿哈"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-大笑.png\"\u003E",
+        "text": "heo-大笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-失去信号.png\"\u003E",
+        "text": "heo-失去信号"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-失望.png\"\u003E",
+        "text": "heo-失望"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-头秃.png\"\u003E",
+        "text": "heo-头秃"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-奋斗.png\"\u003E",
+        "text": "heo-奋斗"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-好奇.png\"\u003E",
+        "text": "heo-好奇"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-好的.png\"\u003E",
+        "text": "heo-好的"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-害羞.png\"\u003E",
+        "text": "heo-害羞"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-小丑.png\"\u003E",
+        "text": "heo-小丑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-小偷.png\"\u003E",
+        "text": "heo-小偷"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-尬笑.png\"\u003E",
+        "text": "heo-尬笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-尴尬.png\"\u003E",
+        "text": "heo-尴尬"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-应援.png\"\u003E",
+        "text": "heo-应援"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-开心.png\"\u003E",
+        "text": "heo-开心"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-引起不适.png\"\u003E",
+        "text": "heo-引起不适"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-微笑.png\"\u003E",
+        "text": "heo-微笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-思考.png\"\u003E",
+        "text": "heo-思考"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-恶心.png\"\u003E",
+        "text": "heo-恶心"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-恶魔.png\"\u003E",
+        "text": "heo-恶魔"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-恶魔恐惧.png\"\u003E",
+        "text": "heo-恶魔恐惧"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-惊吓.png\"\u003E",
+        "text": "heo-惊吓"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-惊吓白眼.png\"\u003E",
+        "text": "heo-惊吓白眼"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-惊讶.png\"\u003E",
+        "text": "heo-惊讶"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-惬意.png\"\u003E",
+        "text": "heo-惬意"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-感动.png\"\u003E",
+        "text": "heo-感动"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-愤怒.png\"\u003E",
+        "text": "heo-愤怒"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-我看好你.png\"\u003E",
+        "text": "heo-我看好你"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-手机相机.png\"\u003E",
+        "text": "heo-手机相机"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-打咩.png\"\u003E",
+        "text": "heo-打咩"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-打牌.png\"\u003E",
+        "text": "heo-打牌"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-托腮.png\"\u003E",
+        "text": "heo-托腮"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-扶额.png\"\u003E",
+        "text": "heo-扶额"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-抠鼻.png\"\u003E",
+        "text": "heo-抠鼻"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-抬眼镜.png\"\u003E",
+        "text": "heo-抬眼镜"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-拜托.png\"\u003E",
+        "text": "heo-拜托"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-捂嘴笑.png\"\u003E",
+        "text": "heo-捂嘴笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-捂脸.png\"\u003E",
+        "text": "heo-捂脸"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-擦汗.png\"\u003E",
+        "text": "heo-擦汗"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-放鞭炮.png\"\u003E",
+        "text": "heo-放鞭炮"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-敬礼.png\"\u003E",
+        "text": "heo-敬礼"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-整理发型.png\"\u003E",
+        "text": "heo-整理发型"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-斗鸡眼.png\"\u003E",
+        "text": "heo-斗鸡眼"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-智慧的眼神.png\"\u003E",
+        "text": "heo-智慧的眼神"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-月饼.png\"\u003E",
+        "text": "heo-月饼"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-有没有搞错.png\"\u003E",
+        "text": "heo-有没有搞错"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-正确.png\"\u003E",
+        "text": "heo-正确"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-没招.png\"\u003E",
+        "text": "heo-没招"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-波吉.png\"\u003E",
+        "text": "heo-波吉"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-泪奔.png\"\u003E",
+        "text": "heo-泪奔"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-流汗微笑.png\"\u003E",
+        "text": "heo-流汗微笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-流鼻涕.png\"\u003E",
+        "text": "heo-流鼻涕"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-深思.png\"\u003E",
+        "text": "heo-深思"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-滑稽.png\"\u003E",
+        "text": "heo-滑稽"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-滑稽吃瓜.png\"\u003E",
+        "text": "heo-滑稽吃瓜"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-滑稽喝水.png\"\u003E",
+        "text": "heo-滑稽喝水"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-滑稽奶茶.png\"\u003E",
+        "text": "heo-滑稽奶茶"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-滑稽柠檬.png\"\u003E",
+        "text": "heo-滑稽柠檬"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-滑稽狂汗.png\"\u003E",
+        "text": "heo-滑稽狂汗"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-滑稽被子.png\"\u003E",
+        "text": "heo-滑稽被子"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-烦恼.png\"\u003E",
+        "text": "heo-烦恼"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-熊熊.png\"\u003E",
+        "text": "heo-熊熊"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-熊猫.png\"\u003E",
+        "text": "heo-熊猫"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-熊猫唱歌.png\"\u003E",
+        "text": "heo-熊猫唱歌"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-熊猫喜欢.png\"\u003E",
+        "text": "heo-熊猫喜欢"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-熊猫失望.png\"\u003E",
+        "text": "heo-熊猫失望"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-熊猫意外.png\"\u003E",
+        "text": "heo-熊猫意外"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-熬夜.png\"\u003E",
+        "text": "heo-熬夜"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-爆炸.png\"\u003E",
+        "text": "heo-爆炸"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-牛年进宝.png\"\u003E",
+        "text": "heo-牛年进宝"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-狂热.png\"\u003E",
+        "text": "heo-狂热"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-狗头.png\"\u003E",
+        "text": "heo-狗头"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-狗头围脖.png\"\u003E",
+        "text": "heo-狗头围脖"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-狗头失望.png\"\u003E",
+        "text": "heo-狗头失望"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-狗头意外.png\"\u003E",
+        "text": "heo-狗头意外"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-狗头胖次.png\"\u003E",
+        "text": "heo-狗头胖次"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-狗头花.png\"\u003E",
+        "text": "heo-狗头花"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-狗头草.png\"\u003E",
+        "text": "heo-狗头草"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-猪头.png\"\u003E",
+        "text": "heo-猪头"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-猪头意外.png\"\u003E",
+        "text": "heo-猪头意外"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-生病.png\"\u003E",
+        "text": "heo-生病"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-电话.png\"\u003E",
+        "text": "heo-电话"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-疑问.png\"\u003E",
+        "text": "heo-疑问"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-疼痛.png\"\u003E",
+        "text": "heo-疼痛"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-痛哭.png\"\u003E",
+        "text": "heo-痛哭"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-看穿一切.png\"\u003E",
+        "text": "heo-看穿一切"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-眩晕.png\"\u003E",
+        "text": "heo-眩晕"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-睡觉.png\"\u003E",
+        "text": "heo-睡觉"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-禁言.png\"\u003E",
+        "text": "heo-禁言"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-笑哭.png\"\u003E",
+        "text": "heo-笑哭"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-纠结.png\"\u003E",
+        "text": "heo-纠结"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-绿帽.png\"\u003E",
+        "text": "heo-绿帽"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-缺牙笑.png\"\u003E",
+        "text": "heo-缺牙笑"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-翻白眼.png\"\u003E",
+        "text": "heo-翻白眼"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-老虎意外.png\"\u003E",
+        "text": "heo-老虎意外"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-耍酷.png\"\u003E",
+        "text": "heo-耍酷"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-胡子.png\"\u003E",
+        "text": "heo-胡子"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-菜狗.png\"\u003E",
+        "text": "heo-菜狗"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-菜狗花.png\"\u003E",
+        "text": "heo-菜狗花"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-蒙面滑稽.png\"\u003E",
+        "text": "heo-蒙面滑稽"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-虎年进宝.png\"\u003E",
+        "text": "heo-虎年进宝"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-被打.png\"\u003E",
+        "text": "heo-被打"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-裂开.png\"\u003E",
+        "text": "heo-裂开"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-警告.png\"\u003E",
+        "text": "heo-警告"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-读书.png\"\u003E",
+        "text": "heo-读书"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-财神红包.png\"\u003E",
+        "text": "heo-财神红包"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-超爱.png\"\u003E",
+        "text": "heo-超爱"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-这是啥.png\"\u003E",
+        "text": "heo-这是啥"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-送福.png\"\u003E",
+        "text": "heo-送福"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-送花.png\"\u003E",
+        "text": "heo-送花"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-错误.png\"\u003E",
+        "text": "heo-错误"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-阴险.png\"\u003E",
+        "text": "heo-阴险"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-难以置信.png\"\u003E",
+        "text": "heo-难以置信"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-面具.png\"\u003E",
+        "text": "heo-面具"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-饥渴.png\"\u003E",
+        "text": "heo-饥渴"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-鬼脸.png\"\u003E",
+        "text": "heo-鬼脸"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-黑线.png\"\u003E",
+        "text": "heo-黑线"
+      },
+      {
+        "icon": "\u003Cimg src=\"https://fastly.jsdelivr.net/gh/willow-god/owo/heo/heo-鼓掌.png\"\u003E",
+        "text": "heo-鼓掌"
+      }
+    ]
+  },
+  "颜文字": {
+    "type": "emoticon",
+    "container": [
+      {
+        "icon": "OωO",
+        "text": "Author: DIYgod"
+      },
+      {
+        "icon": "|´・ω・)ノ",
+        "text": "Hi"
+      },
+      {
+        "icon": "ヾ(≧∇≦*)ゝ",
+        "text": "开心"
+      },
+      {
+        "icon": "(☆ω☆)",
+        "text": "星星眼"
+      },
+      {
+        "icon": "（╯‵□′）╯︵┴─┴",
+        "text": "掀桌"
+      },
+      {
+        "icon": "￣﹃￣",
+        "text": "流口水"
+      },
+      {
+        "icon": "(/ω＼)",
+        "text": "捂脸"
+      },
+      {
+        "icon": "∠( ᐛ 」∠)＿",
+        "text": "给跪"
+      },
+      {
+        "icon": "(๑•̀ㅁ•́ฅ)",
+        "text": "Hi"
+      },
+      {
+        "icon": "→_→",
+        "text": "斜眼"
+      },
+      {
+        "icon": "୧(๑•̀⌄•́๑)૭",
+        "text": "加油"
+      },
+      {
+        "icon": "٩(ˊᗜˋ*)و",
+        "text": "有木有WiFi"
+      },
+      {
+        "icon": "(ノ°ο°)ノ",
+        "text": "前方高能预警"
+      },
+      {
+        "icon": "(´இ皿இ｀)",
+        "text": "我从未见过如此厚颜无耻之人"
+      },
+      {
+        "icon": "⌇●﹏●⌇",
+        "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "(ฅ´ω`ฅ)",
+        "text": "已阅留爪"
+      },
+      {
+        "icon": "(╯°A°)╯︵○○○",
+        "text": "去吧大师球"
+      },
+      {
+        "icon": "φ(￣∇￣o)",
+        "text": "太萌惹"
+      },
+      {
+        "icon": "ヾ(´･ ･｀｡)ノ\"",
+        "text": "咦咦咦"
+      },
+      {
+        "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+        "text": "气呼呼"
+      },
+      {
+        "icon": "(ó﹏ò｡)",
+        "text": "我受到了惊吓"
+      },
+      {
+        "icon": "Σ(っ °Д °;)っ",
+        "text": "什么鬼"
+      },
+      {
+        "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+        "text": "摸摸头"
+      },
+      {
+        "icon": "╮(╯▽╰)╭ ",
+        "text": "无奈"
+      },
+      {
+        "icon": "o(*////▽////*)q ",
+        "text": "脸红"
+      },
+      {
+        "icon": "＞﹏＜",
+        "text": ""
+      },
+      {
+        "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
+        "text": ""
+      }
+    ]
+  },
+  "小黄脸": {
+    "type": "emoji",
+    "container": [
+      {
+        "icon": "😄",
+        "text": "大笑"
+      },
+      {
+        "icon": "😁",
+        "text": "嘻嘻"
+      },
+      {
+        "icon": "😅",
+        "text": "苦笑"
+      },
+      {
+        "icon": "🤣",
+        "text": "笑得满地打滚"
+      },
+      {
+        "icon": "😂",
+        "text": "笑哭了"
+      },
+      {
+        "icon": "🙂",
+        "text": "呵呵"
+      },
+      {
+        "icon": "🙃",
+        "text": "倒脸"
+      },
+      {
+        "icon": "😉",
+        "text": "眨眼"
+      },
+      {
+        "icon": "😊",
+        "text": "羞涩微笑"
+      },
+      {
+        "icon": "🥰",
+        "text": "喜笑颜开"
+      },
+      {
+        "icon": "😍",
+        "text": "花痴"
+      },
+      {
+        "icon": "🤩",
+        "text": "好崇拜哦"
+      },
+      {
+        "icon": "😘",
+        "text": "飞吻"
+      },
+      {
+        "icon": "😗",
+        "text": "亲亲"
+      },
+      {
+        "icon": "😚",
+        "text": "羞涩亲亲"
+      },
+      {
+        "icon": "😙",
+        "text": "微笑亲亲"
+      },
+      {
+        "icon": "😋",
+        "text": "好吃"
+      },
+      {
+        "icon": "😛",
+        "text": "吐舌"
+      },
+      {
+        "icon": "😜",
+        "text": "单眼吐舌"
+      },
+      {
+        "icon": "🤪",
+        "text": "滑稽"
+      },
+      {
+        "icon": "😝",
+        "text": "眯眼吐舌"
+      },
+      {
+        "icon": "🤗",
+        "text": "抱抱"
+      },
+      {
+        "icon": "🤭",
+        "text": "不说"
+      },
+      {
+        "icon": "🤫",
+        "text": "安静的脸"
+      },
+      {
+        "icon": "🤔",
+        "text": "想一想"
+      },
+      {
+        "icon": "🤐",
+        "text": "闭嘴"
+      },
+      {
+        "icon": "🤨",
+        "text": "挑眉"
+      },
+      {
+        "icon": "😐",
+        "text": "冷漠"
+      },
+      {
+        "icon": "😑",
+        "text": "无语"
+      },
+      {
+        "icon": "😶",
+        "text": "沉默"
+      },
+      {
+        "icon": "😏",
+        "text": "得意"
+      },
+      {
+        "icon": "😒",
+        "text": "不高兴"
+      },
+      {
+        "icon": "🙄",
+        "text": "翻白眼"
+      },
+      {
+        "icon": "😬",
+        "text": "龇牙咧嘴"
+      },
+      {
+        "icon": "🤥",
+        "text": "说谎"
+      },
+      {
+        "icon": "😶‍🌫️",
+        "text": "迷茫"
+      },
+      {
+        "icon": "😮‍💨",
+        "text": "呼气"
+      },
+      {
+        "icon": "😌",
+        "text": "松了口气"
+      },
+      {
+        "icon": "😔",
+        "text": "沉思"
+      },
+      {
+        "icon": "😪",
+        "text": "困"
+      },
+      {
+        "icon": "🤤",
+        "text": "流口水"
+      },
+      {
+        "icon": "😴",
+        "text": "睡着了"
+      },
+      {
+        "icon": "😷",
+        "text": "感冒"
+      },
+      {
+        "icon": "🤒",
+        "text": "发烧"
+      },
+      {
+        "icon": "🤕",
+        "text": "受伤"
+      },
+      {
+        "icon": "🤢",
+        "text": "恶心"
+      },
+      {
+        "icon": "🤮",
+        "text": "呕吐"
+      },
+      {
+        "icon": "🤧",
+        "text": "打喷嚏"
+      },
+      {
+        "icon": "🥵",
+        "text": "脸发烧"
+      },
+      {
+        "icon": "🥶",
+        "text": "冷脸"
+      },
+      {
+        "icon": "🥴",
+        "text": "头昏眼花"
+      },
+      {
+        "icon": "😵",
+        "text": "晕头转向"
+      },
+      {
+        "icon": "🤯",
+        "text": "爆炸头"
+      },
+      {
+        "icon": "😵‍💫",
+        "text": "晕"
+      },
+      {
+        "icon": "🤠",
+        "text": "牛仔帽脸"
+      },
+      {
+        "icon": "🥳",
+        "text": "聚会笑脸"
+      },
+      {
+        "icon": "😎",
+        "text": "墨镜笑脸"
+      },
+      {
+        "icon": "🤓",
+        "text": "书呆子脸"
+      },
+      {
+        "icon": "🧐",
+        "text": "带单片眼镜的脸"
+      },
+      {
+        "icon": "😕",
+        "text": "困扰"
+      },
+      {
+        "icon": "😟",
+        "text": "担心"
+      },
+      {
+        "icon": "🙁",
+        "text": "微微不满"
+      },
+      {
+        "icon": "☹️",
+        "text": "不满"
+      },
+      {
+        "icon": "😮",
+        "text": "吃惊"
+      },
+      {
+        "icon": "😯",
+        "text": "缄默"
+      },
+      {
+        "icon": "😲",
+        "text": "震惊"
+      },
+      {
+        "icon": "😳",
+        "text": "脸红"
+      },
+      {
+        "icon": "🥺",
+        "text": "恳求的脸"
+      },
+      {
+        "icon": "😦",
+        "text": "啊"
+      },
+      {
+        "icon": "😧",
+        "text": "极度痛苦"
+      },
+      {
+        "icon": "😨",
+        "text": "害怕"
+      },
+      {
+        "icon": "😰",
+        "text": "冷汗"
+      },
+      {
+        "icon": "😥",
+        "text": "失望但如释重负"
+      },
+      {
+        "icon": "😢",
+        "text": "哭"
+      },
+      {
+        "icon": "😭",
+        "text": "放声大哭"
+      },
+      {
+        "icon": "😱",
+        "text": "吓死了"
+      },
+      {
+        "icon": "😖",
+        "text": "困惑"
+      },
+      {
+        "icon": "😣",
+        "text": "痛苦"
+      },
+      {
+        "icon": "😞",
+        "text": "失望"
+      },
+      {
+        "icon": "😓",
+        "text": "汗"
+      },
+      {
+        "icon": "😩",
+        "text": "累死了"
+      },
+      {
+        "icon": "😫",
+        "text": "累"
+      },
+      {
+        "icon": "🥱",
+        "text": "打呵欠"
+      },
+      {
+        "icon": "😤",
+        "text": "傲慢"
+      },
+      {
+        "icon": "😡",
+        "text": "怒火中烧"
+      },
+      {
+        "icon": "😠",
+        "text": "生气"
+      },
+      {
+        "icon": "🤬",
+        "text": "嘴上有符号的脸"
+      },
+      {
+        "icon": "💩",
+        "text": "大便"
+      },
+      {
+        "icon": "🤡",
+        "text": "小丑脸"
+      },
+      {
+        "icon": "👻",
+        "text": "鬼"
+      },
+      {
+        "icon": "👽",
+        "text": "外星人"
+      },
+      {
+        "icon": "🤖",
+        "text": "机器人"
+      },
+      {
+        "icon": "😺",
+        "text": "大笑的猫"
+      },
+      {
+        "icon": "😸",
+        "text": "微笑的猫"
+      },
+      {
+        "icon": "😹",
+        "text": "笑出眼泪的猫"
+      },
+      {
+        "icon": "😻",
+        "text": "花痴的猫"
+      },
+      {
+        "icon": "😼",
+        "text": "奸笑的猫"
+      },
+      {
+        "icon": "😽",
+        "text": "亲亲猫"
+      },
+      {
+        "icon": "🙀",
+        "text": "疲倦的猫"
+      },
+      {
+        "icon": "😿",
+        "text": "哭泣的猫"
+      },
+      {
+        "icon": "😾",
+        "text": "生气的猫"
+      },
+      {
+        "icon": "🙈",
+        "text": "非礼勿视"
+      },
+      {
+        "icon": "🙉",
+        "text": "非礼勿听"
+      },
+      {
+        "icon": "🙊",
+        "text": "非礼勿言"
+      },
+      {
+        "icon": "💋",
+        "text": "唇印"
+      },
+      {
+        "icon": "💖",
+        "text": "闪亮的心"
+      },
+      {
+        "icon": "💔",
+        "text": "心碎"
+      },
+      {
+        "icon": "❤️",
+        "text": "红心"
+      },
+      {
+        "icon": "💯",
+        "text": "一百分"
+      },
+      {
+        "icon": "💢",
+        "text": "怒"
+      },
+      {
+        "icon": "💥",
+        "text": "爆炸"
+      },
+      {
+        "icon": "💫",
+        "text": "头晕"
+      },
+      {
+        "icon": "💦",
+        "text": "汗滴"
+      },
+      {
+        "icon": "💤",
+        "text": "睡着"
+      },
+      {
+        "icon": "👋",
+        "text": "挥手"
+      },
+      {
+        "icon": "🖐️",
+        "text": "手掌"
+      },
+      {
+        "icon": "👌",
+        "text": "OK"
+      },
+      {
+        "icon": "🤏",
+        "text": "捏合的手势"
+      },
+      {
+        "icon": "✌️",
+        "text": "胜利手势"
+      },
+      {
+        "icon": "🤘",
+        "text": "摇滚"
+      },
+      {
+        "icon": "🖕",
+        "text": "竖中指"
+      },
+      {
+        "icon": "👍",
+        "text": "拇指向上"
+      },
+      {
+        "icon": "👊",
+        "text": "出拳"
+      },
+      {
+        "icon": "👏",
+        "text": "鼓掌"
+      },
+      {
+        "icon": "🤝",
+        "text": "握手"
+      },
+      {
+        "icon": "💪",
+        "text": "肌肉"
+      },
+      {
+        "icon": "👀",
+        "text": "双眼"
+      },
+      {
+        "icon": "🦋",
+        "text": "蝴蝶"
+      },
+      {
+        "icon": "💐",
+        "text": "花束"
+      },
+      {
+        "icon": "🌸",
+        "text": "樱花"
+      },
+      {
+        "icon": "🌹",
+        "text": "玫瑰"
+      },
+      {
+        "icon": "🍉",
+        "text": "西瓜"
+      },
+      {
+        "icon": "🥭",
+        "text": "芒果"
+      },
+      {
+        "icon": "🍗",
+        "text": "家禽的腿"
+      },
+      {
+        "icon": "🥩",
+        "text": "肉块"
+      },
+      {
+        "icon": "🍔",
+        "text": "汉堡"
+      },
+      {
+        "icon": "🍟",
+        "text": "薯条"
+      },
+      {
+        "icon": "🍕",
+        "text": "披萨"
+      },
+      {
+        "icon": "🌭",
+        "text": "热狗"
+      },
+      {
+        "icon": "🥚",
+        "text": "蛋"
+      },
+      {
+        "icon": "🍲",
+        "text": "一锅食物"
+      },
+      {
+        "icon": "🍡",
+        "text": "团子"
+      },
+      {
+        "icon": "🥟",
+        "text": "饺子"
+      },
+      {
+        "icon": "🍦",
+        "text": "圆筒冰激凌"
+      },
+      {
+        "icon": "🍧",
+        "text": "刨冰"
+      },
+      {
+        "icon": "🍨",
+        "text": "冰淇淋"
+      },
+      {
+        "icon": "🎂",
+        "text": "生日蛋糕"
+      },
+      {
+        "icon": "🧁",
+        "text": "纸杯蛋糕"
+      },
+      {
+        "icon": "🍭",
+        "text": "棒棒糖"
+      },
+      {
+        "icon": "☕",
+        "text": "热饮"
+      },
+      {
+        "icon": "🍺",
+        "text": "啤酒"
+      },
+      {
+        "icon": "🍻",
+        "text": "干杯"
+      }
+    ]
   }
 }
