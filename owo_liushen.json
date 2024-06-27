@@ -1,0 +1,1489 @@
+{
+    "可爱猫": {
+      "type": "image",
+      "container": [
+        {
+          "text": "blobcat-心",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatheart.png'>"
+        },
+        {
+          "text": "blobcat-心碎",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatheartbroken.png'>"
+        },
+        {
+          "text": "blobcat-心自豪",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatheartpride.png'>"
+        },
+        {
+          "text": "blobcat-爱",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatlove.png'>"
+        },
+        {
+          "text": "blobcat-亲吻心",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatkissheart.png'>"
+        },
+        {
+          "text": "blobcat-依偎",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatsnuggle.png'>"
+        },
+        {
+          "text": "blobcat-舒适",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatcomfy.png'>"
+        },
+        {
+          "text": "blobcat-舒适流泪",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatcomftears.png'>"
+        },
+        {
+          "text": "blobcat-捂脸",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatfacepalm.png'>"
+        },
+        {
+          "text": "blobcat-0_0",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcat0_0.png'>"
+        },
+        {
+          "text": "blobcat-生气",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatangry.png'>"
+        },
+        {
+          "text": "blobcat-脸红",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatblush.png'>"
+        },
+        {
+          "text": "blobcat-咖啡",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatcoffee.png'>"
+        },
+        {
+          "text": "blobcat-哭泣",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatcry.png'>"
+        },
+        {
+          "text": "blobcat-死了",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatdeath.png'>"
+        },
+        {
+          "text": "blobcat-困扰",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatdisturbed.png'>"
+        },
+        {
+          "text": "blobcat-恐惧",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatfearful.png'>"
+        },
+        {
+          "text": "blobcat-手枪",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatfingerguns.png'>"
+        },
+        {
+          "text": "blobcat-翻",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatflip.png'>"
+        },
+        {
+          "text": "blobcat-花",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatflower.png'>"
+        },
+        {
+          "text": "blobcat-同性恋",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatgay.png'>"
+        },
+        {
+          "text": "blobcat-中性",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatneutral.png'>"
+        },
+        {
+          "text": "blobcat-张嘴",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatopenmouth.png'>"
+        },
+        {
+          "text": "blobcat-伸手",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatsadreach.png'>"
+        },
+        {
+          "text": "blobcat-害怕",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatscared.png'>"
+        },
+        {
+          "text": "blobcat-咬头",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatnomblobcat.png'>"
+        },
+        {
+          "text": "blobcat-红色礼物",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatpresentred.png'>"
+        },
+        {
+          "text": "blobcat-阅读",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatread.png'>"
+        },
+        {
+          "text": "blobcat-喝汗",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatsipsweat.png'>"
+        },
+        {
+          "text": "blobcat-发火",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatsnapped.png'>"
+        },
+        {
+          "text": "blobcat-思考",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatthink.png'>"
+        },
+        {
+          "text": "blobcat-胜利",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcattriumph.png'>"
+        },
+        {
+          "text": "blobcat-嗯",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatumm.png'>"
+        },
+        {
+          "text": "blobcat-验证",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatverified.png'>"
+        },
+        {
+          "text": "blobcat-盒子",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatbox.png'>"
+        },
+        {
+          "text": "blobcat-笼子",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatcaged.png'>"
+        },
+        {
+          "text": "blobcat-垃圾",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatgooglytrash.png'>"
+        },
+        {
+          "text": "blobcat-耳机",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatheadphones.png'>"
+        },
+        {
+          "text": "blobcat-击掌",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcathighfive.png'>"
+        },
+        {
+          "text": "blobcat-融化",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatmelt.png'>"
+        },
+        {
+          "text": "blobcat-融化拇指",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatmeltthumb.png'>"
+        },
+        {
+          "text": "blobcat-不像这样",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatnotlikethis.png'>"
+        },
+        {
+          "text": "blobcat-一拳超人",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatsaitama.png'>"
+        },
+        {
+          "text": "blobcat-病态",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatyandere.png'>"
+        },
+        {
+          "text": "blobcat-偷看2",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatpeek2.png'>"
+        },
+        {
+          "text": "blobcat-躲猫猫",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatpeekaboo.png'>"
+        },
+        {
+          "text": "blobcat-照片",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatphoto.png'>"
+        },
+        {
+          "text": "blobcat-注意反转",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatattentionreverse.png'>"
+        },
+        {
+          "text": "blobcat-反向伸手",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatreachrev.png'>"
+        },
+        {
+          "text": "blobcat-挥手",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatwave.png'>"
+        },
+        {
+          "text": "blobcat-备用",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatalt.png'>"
+        },
+        {
+          "text": "blobcat-警察",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatpolice.png'>"
+        },
+        {
+          "text": "blobcat-震惊",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatshocked.png'>"
+        },
+        {
+          "text": "blobcat-彩虹",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/blobcat/blobcatrainbow.png'>"
+        }
+      ]
+    },
+    "线条狗": {
+      "type": "image",
+      "container": [
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-不要.gif\">",
+          "text": "linedog-不要"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-写不完了.gif\">",
+          "text": "linedog-写不完了"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-准备.gif\">",
+          "text": "linedog-准备"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-加油.gif\">",
+          "text": "linedog-加油"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-呸.gif\">",
+          "text": "linedog-呸"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-哼.gif\">",
+          "text": "linedog-哼"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-喂.gif\">",
+          "text": "linedog-喂"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-好棒.gif\">",
+          "text": "linedog-好棒"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-好痛.gif\">",
+          "text": "linedog-好痛"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-好耶.gif\">",
+          "text": "linedog-好耶"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-威胁.gif\">",
+          "text": "linedog-威胁"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-完成.gif\">",
+          "text": "linedog-完成"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-寻找.gif\">",
+          "text": "linedog-寻找"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-庆祝.gif\">",
+          "text": "linedog-庆祝"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-开心.gif\">",
+          "text": "linedog-开心"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-惊.gif\">",
+          "text": "linedog-惊"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-惊讶.gif\">",
+          "text": "linedog-惊讶"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-惊讶2.gif\">",
+          "text": "linedog-惊讶2"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-打你.gif\">",
+          "text": "linedog-打你"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-打你2.gif\">",
+          "text": "linedog-打你2"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-指.gif\">",
+          "text": "linedog-指"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-探头.gif\">",
+          "text": "linedog-探头"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-摇摆.gif\">",
+          "text": "linedog-摇摆"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-摊手.gif\">",
+          "text": "linedog-摊手"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-晃脚脚.gif\">",
+          "text": "linedog-晃脚脚"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-期待.gif\">",
+          "text": "linedog-期待"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-来了.gif\">",
+          "text": "linedog-来了"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-歪头.gif\">",
+          "text": "linedog-歪头"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-沮丧.gif\">",
+          "text": "linedog-沮丧"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-画圈圈.gif\">",
+          "text": "linedog-画圈圈"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-略.gif\">",
+          "text": "linedog-略"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-盯.gif\">",
+          "text": "linedog-盯"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-看窗外1.gif\">",
+          "text": "linedog-看窗外1"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-看窗外2.gif\">",
+          "text": "linedog-看窗外2"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-紧张.gif\">",
+          "text": "linedog-紧张"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-翘脚脚.gif\">",
+          "text": "linedog-翘脚脚"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-谢谢.gif\">",
+          "text": "linedog-谢谢"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-转圈.gif\">",
+          "text": "linedog-转圈"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-送你花花.gif\">",
+          "text": "linedog-送你花花"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-难过.gif\">",
+          "text": "linedog-难过"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-震惊.gif\">",
+          "text": "linedog-震惊"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-非常好.gif\">",
+          "text": "linedog-非常好"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/linedog/linedog-颓废.gif\">",
+          "text": "linedog-颓废"
+        }
+      ]
+    },
+    "小电视": {
+      "type": "image",
+      "container": [
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-doge.png\">",
+          "text": "bilibili-doge"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-亲亲.png\">",
+          "text": "bilibili-亲亲"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-偷笑.png\">",
+          "text": "bilibili-偷笑"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-再见.png\">",
+          "text": "bilibili-再见"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-冷漠.png\">",
+          "text": "bilibili-冷漠"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-发怒.png\">",
+          "text": "bilibili-发怒"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-发财.png\">",
+          "text": "bilibili-发财"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-可爱.png\">",
+          "text": "bilibili-可爱"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-吐血.png\">",
+          "text": "bilibili-吐血"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-呆.png\">",
+          "text": "bilibili-呆"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-呕吐.png\">",
+          "text": "bilibili-呕吐"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-困.png\">",
+          "text": "bilibili-困"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-坏笑.png\">",
+          "text": "bilibili-坏笑"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-大佬.png\">",
+          "text": "bilibili-大佬"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-大哭.png\">",
+          "text": "bilibili-大哭"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-委屈.png\">",
+          "text": "bilibili-委屈"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-害羞.png\">",
+          "text": "bilibili-害羞"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-尴尬.png\">",
+          "text": "bilibili-尴尬"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-微笑.png\">",
+          "text": "bilibili-微笑"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-思考.png\">",
+          "text": "bilibili-思考"
+        },
+        {
+          "icon": "<img src=\"https://jsd.liushen.fun/gh/willow-god/owo/bilibili/bilibili-惊吓.png\">",
+          "text": "bilibili-惊吓"
+        }
+      ]
+    },
+    "胆小鬼": {
+      "type": "image",
+      "container": [
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-搬砖.png'>",
+          "text": "death-搬砖"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-报告.png'>",
+          "text": "death-报告"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-悲伤眼泪.png'>",
+          "text": "death-悲伤眼泪"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-呆萌.png'>",
+          "text": "death-呆萌"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-发抖.png'>",
+          "text": "death-发抖"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-奔跑.png'>",
+          "text": "death-奔跑"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-孤独.png'>",
+          "text": "death-孤独"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-孤独寂寞.png'>",
+          "text": "death-孤独寂寞"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-害怕.png'>",
+          "text": "death-害怕"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-坏笑.png'>",
+          "text": "death-坏笑"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-黑脸.png'>",
+          "text": "death-黑脸"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-黑线.png'>",
+          "text": "death-黑线"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-可怜无助.png'>",
+          "text": "death-可怜无助"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-空洞呆.png'>",
+          "text": "death-空洞呆"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-难过.png'>",
+          "text": "death-难过"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-谁也不爱.png'>",
+          "text": "death-谁也不爱"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-弱小无助.png'>",
+          "text": "death-弱小无助"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-生气.png'>",
+          "text": "death-生气"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-死神驾到.png'>",
+          "text": "death-死神驾到"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-死神施法.png'>",
+          "text": "death-死神施法"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-死神巫师.png'>",
+          "text": "death-死神巫师"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-逃跑.png'>",
+          "text": "death-逃跑"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-痛苦无助.png'>",
+          "text": "death-痛苦无助"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-吓人.png'>",
+          "text": "death-吓人"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-嫌弃讨厌.png'>",
+          "text": "death-嫌弃讨厌"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-邪恶的笑.png'>",
+          "text": "death-邪恶的笑"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-心痛.png'>",
+          "text": "death-心痛"
+        },
+        {
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/death/death-摘下面具.png'>",
+          "text": "death-摘下面具"
+        }
+      ]
+    },
+    "猫猫虫": {
+      "type": "image",
+      "container": [
+        {
+          "text": "catbug-不准色色",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-不准色色.webp'>"
+        },
+        {
+          "text": "catbug-不要",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-不要.webp'>"
+        },
+        {
+          "text": "catbug-不要呀",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-不要呀.webp'>"
+        },
+        {
+          "text": "catbug-亲亲",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-亲亲.webp'>"
+        },
+        {
+          "text": "catbug-亲脸",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-亲脸.webp'>"
+        },
+        {
+          "text": "catbug-偷偷看",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-偷偷看.webp'>"
+        },
+        {
+          "text": "catbug-偷偷给心",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-偷偷给心.webp'>"
+        },
+        {
+          "text": "catbug-再见",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-再见.webp'>"
+        },
+        {
+          "text": "catbug-吃掉你",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-吃掉你.webp'>"
+        },
+        {
+          "text": "catbug-吹风",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-吹风.webp'>"
+        },
+        {
+          "text": "catbug-呕吼",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-呕吼.webp'>"
+        },
+        {
+          "text": "catbug-和我色色",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-和我色色.webp'>"
+        },
+        {
+          "text": "catbug-咬你",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-咬你.webp'>"
+        },
+        {
+          "text": "catbug-开心",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-开心.webp'>"
+        },
+        {
+          "text": "catbug-思考中",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-思考中.webp'>"
+        },
+        {
+          "text": "catbug-扭一扭",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-扭一扭.webp'>"
+        },
+        {
+          "text": "catbug-扭屁股",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-扭屁股.webp'>"
+        },
+        {
+          "text": "catbug-摇摇晃晃",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-摇摇晃晃.webp'>"
+        },
+        {
+          "text": "catbug-无奈",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-无奈.webp'>"
+        },
+        {
+          "text": "catbug-棒",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-棒.webp'>"
+        },
+        {
+          "text": "catbug-点赞",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-点赞.webp'>"
+        },
+        {
+          "text": "catbug-爱你",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-爱你.webp'>"
+        },
+        {
+          "text": "catbug-爱你2",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-爱你2.webp'>"
+        },
+        {
+          "text": "catbug-牛",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-牛.webp'>"
+        },
+        {
+          "text": "catbug-生气",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-生气.webp'>"
+        },
+        {
+          "text": "catbug-睡觉",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-睡觉.webp'>"
+        },
+        {
+          "text": "catbug-耍帅",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-耍帅.webp'>"
+        },
+        {
+          "text": "catbug-脸红",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-脸红.webp'>"
+        },
+        {
+          "text": "catbug-膜拜",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-膜拜.webp'>"
+        },
+        {
+          "text": "catbug-舔屏",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-舔屏.webp'>"
+        },
+        {
+          "text": "catbug-贴贴",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-贴贴.webp'>"
+        },
+        {
+          "text": "catbug-问号",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/catbug/catbug-问号.webp'>"
+        }
+      ]
+    },
+    "大圆脸": {
+      "type": "image",
+      "container": [
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-3d眼镜.png\"\u003E",
+          "text": "heo-3d眼镜"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-EDG.png\"\u003E",
+          "text": "heo-EDG"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-LPL.png\"\u003E",
+          "text": "heo-LPL"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-beluga.png\"\u003E",
+          "text": "heo-beluga"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-不好意思.png\"\u003E",
+          "text": "heo-不好意思"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-不服吗.png\"\u003E",
+          "text": "heo-不服吗"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-亲亲.png\"\u003E",
+          "text": "heo-亲亲"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-伞兵.png\"\u003E",
+          "text": "heo-伞兵"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-倚墙笑.png\"\u003E",
+          "text": "heo-倚墙笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-值得肯定.png\"\u003E",
+          "text": "heo-值得肯定"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-偷偷看.png\"\u003E",
+          "text": "heo-偷偷看"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-傻笑.png\"\u003E",
+          "text": "heo-傻笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-再见.png\"\u003E",
+          "text": "heo-再见"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-出家人.png\"\u003E",
+          "text": "heo-出家人"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-击剑.png\"\u003E",
+          "text": "heo-击剑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-加班.png\"\u003E",
+          "text": "heo-加班"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-勉强笑.png\"\u003E",
+          "text": "heo-勉强笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-危险.png\"\u003E",
+          "text": "heo-危险"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-发红包.png\"\u003E",
+          "text": "heo-发红包"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-吃手.png\"\u003E",
+          "text": "heo-吃手"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-吃瓜.png\"\u003E",
+          "text": "heo-吃瓜"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-吐血.png\"\u003E",
+          "text": "heo-吐血"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-吵架.png\"\u003E",
+          "text": "heo-吵架"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-呦吼.png\"\u003E",
+          "text": "heo-呦吼"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-呲牙笑.png\"\u003E",
+          "text": "heo-呲牙笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-哈士奇.png\"\u003E",
+          "text": "heo-哈士奇"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-哈士奇失去意识.png\"\u003E",
+          "text": "heo-哈士奇失去意识"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-哈士奇失望.png\"\u003E",
+          "text": "heo-哈士奇失望"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-哭泣.png\"\u003E",
+          "text": "heo-哭泣"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-唱歌.png\"\u003E",
+          "text": "heo-唱歌"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-喜欢.png\"\u003E",
+          "text": "heo-喜欢"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-嘿哈.png\"\u003E",
+          "text": "heo-嘿哈"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-大笑.png\"\u003E",
+          "text": "heo-大笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-失去信号.png\"\u003E",
+          "text": "heo-失去信号"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-失望.png\"\u003E",
+          "text": "heo-失望"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-头秃.png\"\u003E",
+          "text": "heo-头秃"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-奋斗.png\"\u003E",
+          "text": "heo-奋斗"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-好奇.png\"\u003E",
+          "text": "heo-好奇"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-好的.png\"\u003E",
+          "text": "heo-好的"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-害羞.png\"\u003E",
+          "text": "heo-害羞"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-小丑.png\"\u003E",
+          "text": "heo-小丑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-小偷.png\"\u003E",
+          "text": "heo-小偷"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-尬笑.png\"\u003E",
+          "text": "heo-尬笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-尴尬.png\"\u003E",
+          "text": "heo-尴尬"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-应援.png\"\u003E",
+          "text": "heo-应援"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-开心.png\"\u003E",
+          "text": "heo-开心"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-引起不适.png\"\u003E",
+          "text": "heo-引起不适"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-微笑.png\"\u003E",
+          "text": "heo-微笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-思考.png\"\u003E",
+          "text": "heo-思考"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-恶心.png\"\u003E",
+          "text": "heo-恶心"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-恶魔.png\"\u003E",
+          "text": "heo-恶魔"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-恶魔恐惧.png\"\u003E",
+          "text": "heo-恶魔恐惧"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-惊吓.png\"\u003E",
+          "text": "heo-惊吓"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-惊吓白眼.png\"\u003E",
+          "text": "heo-惊吓白眼"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-惊讶.png\"\u003E",
+          "text": "heo-惊讶"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-惬意.png\"\u003E",
+          "text": "heo-惬意"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-感动.png\"\u003E",
+          "text": "heo-感动"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-愤怒.png\"\u003E",
+          "text": "heo-愤怒"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-我看好你.png\"\u003E",
+          "text": "heo-我看好你"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-手机相机.png\"\u003E",
+          "text": "heo-手机相机"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-打咩.png\"\u003E",
+          "text": "heo-打咩"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-打牌.png\"\u003E",
+          "text": "heo-打牌"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-托腮.png\"\u003E",
+          "text": "heo-托腮"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-扶额.png\"\u003E",
+          "text": "heo-扶额"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-抠鼻.png\"\u003E",
+          "text": "heo-抠鼻"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-抬眼镜.png\"\u003E",
+          "text": "heo-抬眼镜"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-拜托.png\"\u003E",
+          "text": "heo-拜托"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-捂嘴笑.png\"\u003E",
+          "text": "heo-捂嘴笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-捂脸.png\"\u003E",
+          "text": "heo-捂脸"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-擦汗.png\"\u003E",
+          "text": "heo-擦汗"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-放鞭炮.png\"\u003E",
+          "text": "heo-放鞭炮"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-敬礼.png\"\u003E",
+          "text": "heo-敬礼"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-整理发型.png\"\u003E",
+          "text": "heo-整理发型"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-斗鸡眼.png\"\u003E",
+          "text": "heo-斗鸡眼"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-智慧的眼神.png\"\u003E",
+          "text": "heo-智慧的眼神"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-月饼.png\"\u003E",
+          "text": "heo-月饼"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-有没有搞错.png\"\u003E",
+          "text": "heo-有没有搞错"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-正确.png\"\u003E",
+          "text": "heo-正确"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-没招.png\"\u003E",
+          "text": "heo-没招"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-波吉.png\"\u003E",
+          "text": "heo-波吉"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-泪奔.png\"\u003E",
+          "text": "heo-泪奔"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-流汗微笑.png\"\u003E",
+          "text": "heo-流汗微笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-流鼻涕.png\"\u003E",
+          "text": "heo-流鼻涕"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-深思.png\"\u003E",
+          "text": "heo-深思"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-滑稽.png\"\u003E",
+          "text": "heo-滑稽"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-滑稽吃瓜.png\"\u003E",
+          "text": "heo-滑稽吃瓜"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-滑稽喝水.png\"\u003E",
+          "text": "heo-滑稽喝水"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-滑稽奶茶.png\"\u003E",
+          "text": "heo-滑稽奶茶"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-滑稽柠檬.png\"\u003E",
+          "text": "heo-滑稽柠檬"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-滑稽狂汗.png\"\u003E",
+          "text": "heo-滑稽狂汗"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-滑稽被子.png\"\u003E",
+          "text": "heo-滑稽被子"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-烦恼.png\"\u003E",
+          "text": "heo-烦恼"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-熊熊.png\"\u003E",
+          "text": "heo-熊熊"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-熊猫.png\"\u003E",
+          "text": "heo-熊猫"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-熊猫唱歌.png\"\u003E",
+          "text": "heo-熊猫唱歌"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-熊猫喜欢.png\"\u003E",
+          "text": "heo-熊猫喜欢"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-熊猫失望.png\"\u003E",
+          "text": "heo-熊猫失望"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-熊猫意外.png\"\u003E",
+          "text": "heo-熊猫意外"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-熬夜.png\"\u003E",
+          "text": "heo-熬夜"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-爆炸.png\"\u003E",
+          "text": "heo-爆炸"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-牛年进宝.png\"\u003E",
+          "text": "heo-牛年进宝"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-狂热.png\"\u003E",
+          "text": "heo-狂热"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-狗头.png\"\u003E",
+          "text": "heo-狗头"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-狗头围脖.png\"\u003E",
+          "text": "heo-狗头围脖"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-狗头失望.png\"\u003E",
+          "text": "heo-狗头失望"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-狗头意外.png\"\u003E",
+          "text": "heo-狗头意外"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-狗头胖次.png\"\u003E",
+          "text": "heo-狗头胖次"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-狗头花.png\"\u003E",
+          "text": "heo-狗头花"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-狗头草.png\"\u003E",
+          "text": "heo-狗头草"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-猪头.png\"\u003E",
+          "text": "heo-猪头"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-猪头意外.png\"\u003E",
+          "text": "heo-猪头意外"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-生病.png\"\u003E",
+          "text": "heo-生病"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-电话.png\"\u003E",
+          "text": "heo-电话"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-疑问.png\"\u003E",
+          "text": "heo-疑问"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-疼痛.png\"\u003E",
+          "text": "heo-疼痛"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-痛哭.png\"\u003E",
+          "text": "heo-痛哭"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-看穿一切.png\"\u003E",
+          "text": "heo-看穿一切"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-眩晕.png\"\u003E",
+          "text": "heo-眩晕"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-睡觉.png\"\u003E",
+          "text": "heo-睡觉"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-禁言.png\"\u003E",
+          "text": "heo-禁言"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-笑哭.png\"\u003E",
+          "text": "heo-笑哭"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-纠结.png\"\u003E",
+          "text": "heo-纠结"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-绿帽.png\"\u003E",
+          "text": "heo-绿帽"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-缺牙笑.png\"\u003E",
+          "text": "heo-缺牙笑"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-翻白眼.png\"\u003E",
+          "text": "heo-翻白眼"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-老虎意外.png\"\u003E",
+          "text": "heo-老虎意外"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-耍酷.png\"\u003E",
+          "text": "heo-耍酷"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-胡子.png\"\u003E",
+          "text": "heo-胡子"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-菜狗.png\"\u003E",
+          "text": "heo-菜狗"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-菜狗花.png\"\u003E",
+          "text": "heo-菜狗花"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-蒙面滑稽.png\"\u003E",
+          "text": "heo-蒙面滑稽"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-虎年进宝.png\"\u003E",
+          "text": "heo-虎年进宝"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-被打.png\"\u003E",
+          "text": "heo-被打"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-裂开.png\"\u003E",
+          "text": "heo-裂开"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-警告.png\"\u003E",
+          "text": "heo-警告"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-读书.png\"\u003E",
+          "text": "heo-读书"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-财神红包.png\"\u003E",
+          "text": "heo-财神红包"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-超爱.png\"\u003E",
+          "text": "heo-超爱"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-这是啥.png\"\u003E",
+          "text": "heo-这是啥"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-送福.png\"\u003E",
+          "text": "heo-送福"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-送花.png\"\u003E",
+          "text": "heo-送花"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-错误.png\"\u003E",
+          "text": "heo-错误"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-阴险.png\"\u003E",
+          "text": "heo-阴险"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-难以置信.png\"\u003E",
+          "text": "heo-难以置信"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-面具.png\"\u003E",
+          "text": "heo-面具"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-饥渴.png\"\u003E",
+          "text": "heo-饥渴"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-鬼脸.png\"\u003E",
+          "text": "heo-鬼脸"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-黑线.png\"\u003E",
+          "text": "heo-黑线"
+        },
+        {
+          "icon": "\u003Cimg src=\"https://jsd.liushen.fun/gh/willow-god/owo/heo/heo-鼓掌.png\"\u003E",
+          "text": "heo-鼓掌"
+        }
+      ]
+    },
+    "方块脸": {
+      "type": "image",
+      "container": [
+        {
+          "text": "Heybox—微笑",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube.png'>"
+        },
+        {
+          "text": "Heybox—并不简单",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_bingbujiandan.png'>"
+        },
+        {
+          "text": "Heybox-闭嘴",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_bizui.png'>"
+        },
+        {
+          "text": "Heybox-沧桑",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_cangsang.png'>"
+        },
+        {
+          "text": "Heybox-打脸",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_dalian.png'>"
+        },
+        {
+          "text": "Heybox-狗头",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_doge.png'>"
+        },
+        {
+          "text": "Heybox-感动",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_gandong.png'>"
+        },
+        {
+          "text": "Heybox-乖",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_guai.png'>"
+        },
+        {
+          "text": "Heybox-咕咕",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_gugu.png'>"
+        },
+        {
+          "text": "Heybox-汉",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_han.png'>"
+        },
+        {
+          "text": "Heybox-expression_cube_黑人问号",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_heirenwenhao.png'>"
+        },
+        {
+          "text": "Heybox-滑稽",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_huaji.png'>"
+        },
+        {
+          "text": "Heybox-加油",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_jiayou.png'>"
+        },
+        {
+          "text": "Heybox-惊讶",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_jingya.png'>"
+        },
+        {
+          "text": "Heybox-开心",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_kaixin.png'>"
+        },
+        {
+          "text": "Heybox-哭",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_ku.png'>"
+        },
+        {
+          "text": "Heybox-困",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_kun.png'>"
+        },
+        {
+          "text": "Heybox-哭泣",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_kuqi.png'>"
+        },
+        {
+          "text": "Heybox-怒",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_nu.png'>"
+        },
+        {
+          "text": "Heybox-喷水",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_penshui.png'>"
+        },
+        {
+          "text": "Heybox-凄凉",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_qiliang.png'>"
+        },
+        {
+          "text": "Heybox-生气",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_shengqi.png'>"
+        },
+        {
+          "text": "Heybox-睡觉",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_shuijiao.png'>"
+        },
+        {
+          "text": "Heybox-叹气",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_tanqi.png'>"
+        },
+        {
+          "text": "Heybox-摊手",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_tanshou.png'>"
+        },
+        {
+          "text": "Heybox-吐",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_tu.png'>"
+        },
+        {
+          "text": "Heybox-哇",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_wa.png'>"
+        },
+        {
+          "text": "Heybox-委屈",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_weiqu.png'>"
+        },
+        {
+          "text": "Heybox-微笑",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_weixiao.png'>"
+        },
+        {
+          "text": "Heybox-捂脸哭",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_wulianku.png'>"
+        },
+        {
+          "text": "Heybox-吓",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_xia.png'>"
+        },
+        {
+          "text": "Heybox-笑哭",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_xiaocry.png'>"
+        },
+        {
+          "text": "Heybox-喜欢",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_xihuan.png'>"
+        },
+        {
+          "text": "Heybox-学习",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_xuexi.png'>"
+        },
+        {
+          "text": "Heybox-晕",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_yun.png'>"
+        },
+        {
+          "text": "Heybox-赞",
+          "icon": "<img src='https://jsd.liushen.fun/gh/willow-god/owo/heybox/Heybox-cube_zan.png'>"
+        }
+      ]
+    }
+  }
