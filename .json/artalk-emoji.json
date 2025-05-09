@@ -1,6 +1,6 @@
 [
   {
-    "name": "清羽酱",
+    "name": "liushen",
     "type": "image",
     "items": [
       {
@@ -10,6 +10,10 @@
       {
         "key": "liushen-干饭",
         "val": "https://o.qyliu.top/liushen/liushen-chowdown.png"
+      },
+      {
+        "key": "liushen-冻死了",
+        "val": "https://o.qyliu.top/liushen/liushen-cold.png"
       },
       {
         "key": "liushen-迷惑",
@@ -22,6 +26,14 @@
       {
         "key": "liushen-大哭",
         "val": "https://o.qyliu.top/liushen/liushen-cry.png"
+      },
+      {
+        "key": "liushen-可爱",
+        "val": "https://o.qyliu.top/liushen/liushen-cutehold.png"
+      },
+      {
+        "key": "liushen-嫌弃",
+        "val": "https://o.qyliu.top/liushen/liushen-dislike.png"
       },
       {
         "key": "liushen-滑稽",
@@ -40,12 +52,24 @@
         "val": "https://o.qyliu.top/liushen/liushen-happy.png"
       },
       {
+        "key": "liushen-尴尬的笑",
+        "val": "https://o.qyliu.top/liushen/liushen-hehesmile.png"
+      },
+      {
         "key": "liushen-无奈",
         "val": "https://o.qyliu.top/liushen/liushen-helpless.png"
       },
       {
+        "key": "liushen-打你",
+        "val": "https://o.qyliu.top/liushen/liushen-hityou.png"
+      },
+      {
         "key": "liushen-学习",
         "val": "https://o.qyliu.top/liushen/liushen-homework.png"
+      },
+      {
+        "key": "liushen-热死了",
+        "val": "https://o.qyliu.top/liushen/liushen-hot.png"
       },
       {
         "key": "liushen-奋斗",
@@ -58,6 +82,18 @@
       {
         "key": "liushen-震惊",
         "val": "https://o.qyliu.top/liushen/liushen-mindblown.png"
+      },
+      {
+        "key": "liushen-偷看",
+        "val": "https://o.qyliu.top/liushen/liushen-peek.png"
+      },
+      {
+        "key": "liushen-石化",
+        "val": "https://o.qyliu.top/liushen/liushen-petrified.png"
+      },
+      {
+        "key": "liushen-进局子",
+        "val": "https://o.qyliu.top/liushen/liushen-prison.png"
       },
       {
         "key": "liushen-自豪",
@@ -82,11 +118,23 @@
       {
         "key": "liushen-睡觉",
         "val": "https://o.qyliu.top/liushen/liushen-sleep.png"
+      },
+      {
+        "key": "liushen-可怜",
+        "val": "https://o.qyliu.top/liushen/liushen-sobface.png"
+      },
+      {
+        "key": "liushen-困倦",
+        "val": "https://o.qyliu.top/liushen/liushen-tired.png"
+      },
+      {
+        "key": "liushen-工作",
+        "val": "https://o.qyliu.top/liushen/liushen-work.png"
       }
     ]
   },
   {
-    "name": "可爱猫",
+    "name": "blobcat",
     "type": "image",
     "items": [
       {
@@ -308,7 +356,7 @@
     ]
   },
   {
-    "name": "线条狗",
+    "name": "linedog",
     "type": "image",
     "items": [
       {
@@ -486,7 +534,7 @@
     ]
   },
   {
-    "name": "小电视",
+    "name": "bilibili",
     "type": "image",
     "items": [
       {
