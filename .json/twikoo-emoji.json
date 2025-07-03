@@ -11,6 +11,10 @@
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-chowdown.png'>"
       },
       {
+        "text": "liushen-cold",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-cold.png'>"
+      },
+      {
         "text": "liushen-confused",
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-confused.png'>"
       },
@@ -23,8 +27,24 @@
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-cry.png'>"
       },
       {
+        "text": "liushen-cutehold",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-cutehold.png'>"
+      },
+      {
+        "text": "liushen-dislike",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-dislike.png'>"
+      },
+      {
+        "text": "liushen-eatmelon",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-eatmelon.png'>"
+      },
+      {
         "text": "liushen-funny",
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-funny.png'>"
+      },
+      {
+        "text": "liushen-Garbage",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-Garbage.png'>"
       },
       {
         "text": "liushen-good",
@@ -39,12 +59,24 @@
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-happy.png'>"
       },
       {
+        "text": "liushen-hehesmile",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-hehesmile.png'>"
+      },
+      {
         "text": "liushen-helpless",
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-helpless.png'>"
       },
       {
+        "text": "liushen-hityou",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-hityou.png'>"
+      },
+      {
         "text": "liushen-homework",
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-homework.png'>"
+      },
+      {
+        "text": "liushen-hot",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-hot.png'>"
       },
       {
         "text": "liushen-hustle",
@@ -59,12 +91,32 @@
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-mindblown.png'>"
       },
       {
+        "text": "liushen-nosee",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-nosee.png'>"
+      },
+      {
+        "text": "liushen-peek",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-peek.png'>"
+      },
+      {
+        "text": "liushen-petrified",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-petrified.png'>"
+      },
+      {
+        "text": "liushen-prison",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-prison.png'>"
+      },
+      {
         "text": "liushen-prond",
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-prond.png'>"
       },
       {
         "text": "liushen-sad",
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-sad.png'>"
+      },
+      {
+        "text": "liushen-shoot",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-shoot.png'>"
       },
       {
         "text": "liushen-shy",
@@ -81,6 +133,18 @@
       {
         "text": "liushen-sleep",
         "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-sleep.png'>"
+      },
+      {
+        "text": "liushen-sobface",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-sobface.png'>"
+      },
+      {
+        "text": "liushen-tired",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-tired.png'>"
+      },
+      {
+        "text": "liushen-work",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-work.png'>"
       }
     ]
   },
