@@ -5,131 +5,147 @@
     "items": [
       {
         "key": "liushen-生气",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-angry.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-angry.png"
       },
       {
         "key": "liushen-干饭",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-chowdown.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-chowdown.png"
       },
       {
         "key": "liushen-冻死了",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-cold.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-cold.png"
       },
       {
         "key": "liushen-迷惑",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-confused.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-confused.png"
       },
       {
         "key": "liushen-庆祝",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-congratulation.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-congratulation.png"
       },
       {
         "key": "liushen-大哭",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-cry.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-cry.png"
       },
       {
         "key": "liushen-可爱",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-cutehold.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-cutehold.png"
       },
       {
         "key": "liushen-嫌弃",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-dislike.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-dislike.png"
+      },
+      {
+        "key": "liushen-吃瓜",
+        "val": "https://owo.liiiu.cn/liushen/liushen-eatmelon.png"
       },
       {
         "key": "liushen-滑稽",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-funny.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-funny.png"
+      },
+      {
+        "key": "liushen-垃圾",
+        "val": "https://owo.liiiu.cn/liushen/liushen-Garbage.png"
       },
       {
         "key": "liushen-真棒",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-good.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-good.png"
       },
       {
         "key": "liushen-搬砖",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-grinding.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-grinding.png"
       },
       {
         "key": "liushen-快乐",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-happy.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-happy.png"
       },
       {
         "key": "liushen-尴尬的笑",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-hehesmile.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-hehesmile.png"
       },
       {
         "key": "liushen-无奈",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-helpless.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-helpless.png"
       },
       {
         "key": "liushen-打你",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-hityou.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-hityou.png"
       },
       {
         "key": "liushen-学习",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-homework.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-homework.png"
       },
       {
         "key": "liushen-热死了",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-hot.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-hot.png"
       },
       {
         "key": "liushen-奋斗",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-hustle.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-hustle.png"
       },
       {
         "key": "liushen-爱你",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-loveyou.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-loveyou.png"
       },
       {
         "key": "liushen-震惊",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-mindblown.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-mindblown.png"
+      },
+      {
+        "key": "liushen-看不见",
+        "val": "https://owo.liiiu.cn/liushen/liushen-nosee.png"
       },
       {
         "key": "liushen-偷看",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-peek.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-peek.png"
       },
       {
         "key": "liushen-石化",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-petrified.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-petrified.png"
       },
       {
         "key": "liushen-进局子",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-prison.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-prison.png"
       },
       {
         "key": "liushen-自豪",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-prond.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-prond.png"
       },
       {
         "key": "liushen-难过",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-sad.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-sad.png"
+      },
+      {
+        "key": "liushen-开枪",
+        "val": "https://owo.liiiu.cn/liushen/liushen-shoot.png"
       },
       {
         "key": "liushen-害羞",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-shy.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-shy.png"
       },
       {
         "key": "liushen-叹气",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-sigh.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-sigh.png"
       },
       {
         "key": "liushen-摸鱼",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-slacking.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-slacking.png"
       },
       {
         "key": "liushen-睡觉",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-sleep.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-sleep.png"
       },
       {
         "key": "liushen-可怜",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-sobface.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-sobface.png"
       },
       {
         "key": "liushen-困倦",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-tired.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-tired.png"
       },
       {
         "key": "liushen-工作",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/liushen/liushen-work.png"
+        "val": "https://owo.liiiu.cn/liushen/liushen-work.png"
       }
     ]
   },
@@ -139,219 +155,219 @@
     "items": [
       {
         "key": "blobcat-0_0",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcat0_0.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcat0_0.png"
       },
       {
         "key": "blobcat-备用",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatalt.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatalt.png"
       },
       {
         "key": "blobcat-生气",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatangry.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatangry.png"
       },
       {
         "key": "blobcat-注意反转",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatattentionreverse.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatattentionreverse.png"
       },
       {
         "key": "blobcat-脸红",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatblush.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatblush.png"
       },
       {
         "key": "blobcat-盒子",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatbox.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatbox.png"
       },
       {
         "key": "blobcat-笼子",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcaged.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatcaged.png"
       },
       {
         "key": "blobcat-咖啡",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcoffee.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatcoffee.png"
       },
       {
         "key": "blobcat-舒适流泪",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcomftears.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatcomftears.png"
       },
       {
         "key": "blobcat-舒适",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcomfy.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatcomfy.png"
       },
       {
         "key": "blobcat-哭泣",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcry.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatcry.png"
       },
       {
         "key": "blobcat-死了",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatdead.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatdead.png"
       },
       {
         "key": "blobcat-困扰",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatdisturbed.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatdisturbed.png"
       },
       {
         "key": "blobcat-捂脸",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatfacepalm.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatfacepalm.png"
       },
       {
         "key": "blobcat-恐惧",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatfearful.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatfearful.png"
       },
       {
         "key": "blobcat-手枪",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatfingerguns.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatfingerguns.png"
       },
       {
         "key": "blobcat-翻",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatflip.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatflip.png"
       },
       {
         "key": "blobcat-花",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatflower.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatflower.png"
       },
       {
         "key": "blobcat-同性恋",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatgay.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatgay.png"
       },
       {
         "key": "blobcat-垃圾",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatgooglytrash.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatgooglytrash.png"
       },
       {
         "key": "blobcat-耳机",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatheadphones.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatheadphones.png"
       },
       {
         "key": "blobcat-心",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatheart.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatheart.png"
       },
       {
         "key": "blobcat-心碎",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatheartbroken.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatheartbroken.png"
       },
       {
         "key": "blobcat-心自豪",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatheartpride.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatheartpride.png"
       },
       {
         "key": "blobcat-击掌",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcathighfive.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcathighfive.png"
       },
       {
         "key": "blobcat-亲吻心",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatkissheart.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatkissheart.png"
       },
       {
         "key": "blobcat-爱",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatlove.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatlove.png"
       },
       {
         "key": "blobcat-融化",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatmelt.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatmelt.png"
       },
       {
         "key": "blobcat-融化拇指",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatmeltthumb.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatmeltthumb.png"
       },
       {
         "key": "blobcat-中性",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatneutral.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatneutral.png"
       },
       {
         "key": "blobcat-咬头",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatnomblobcat.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatnomblobcat.png"
       },
       {
         "key": "blobcat-不像这样",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatnotlikethis.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatnotlikethis.png"
       },
       {
         "key": "blobcat-张嘴",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatopenmouth.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatopenmouth.png"
       },
       {
         "key": "blobcat-偷看2",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatpeek2.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatpeek2.png"
       },
       {
         "key": "blobcat-躲猫猫",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatpeekaboo.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatpeekaboo.png"
       },
       {
         "key": "blobcat-照片",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatphoto.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatphoto.png"
       },
       {
         "key": "blobcat-警察",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatpolice.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatpolice.png"
       },
       {
         "key": "blobcat-红色礼物",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatpresentred.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatpresentred.png"
       },
       {
         "key": "blobcat-彩虹",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatrainbow.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatrainbow.png"
       },
       {
         "key": "blobcat-反向伸手",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatreachrev.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatreachrev.png"
       },
       {
         "key": "blobcat-阅读",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatread.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatread.png"
       },
       {
         "key": "blobcat-伸手",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsadreach.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatsadreach.png"
       },
       {
         "key": "blobcat-一拳超人",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsaitama.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatsaitama.png"
       },
       {
         "key": "blobcat-害怕",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatscared.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatscared.png"
       },
       {
         "key": "blobcat-震惊",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatshocked.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatshocked.png"
       },
       {
         "key": "blobcat-喝汗",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsipsweat.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatsipsweat.png"
       },
       {
         "key": "blobcat-发火",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsnapped.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatsnapped.png"
       },
       {
         "key": "blobcat-依偎",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsnuggle.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatsnuggle.png"
       },
       {
         "key": "blobcat-思考",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatthink.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatthink.png"
       },
       {
         "key": "blobcat-胜利",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcattriumph.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcattriumph.png"
       },
       {
         "key": "blobcat-嗯",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatumm.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatumm.png"
       },
       {
         "key": "blobcat-验证",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatverified.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatverified.png"
       },
       {
         "key": "blobcat-挥手",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatwave.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatwave.png"
       },
       {
         "key": "blobcat-病态",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatyandere.png"
+        "val": "https://owo.liiiu.cn/blobcat/blobcatyandere.png"
       }
     ]
   },
@@ -361,175 +377,175 @@
     "items": [
       {
         "key": "linedog-不要",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-不要.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-不要.gif"
       },
       {
         "key": "linedog-写不完了",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-写不完了.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-写不完了.gif"
       },
       {
         "key": "linedog-准备",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-准备.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-准备.gif"
       },
       {
         "key": "linedog-加油",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-加油.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-加油.gif"
       },
       {
         "key": "linedog-呸",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-呸.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-呸.gif"
       },
       {
         "key": "linedog-哼",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-哼.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-哼.gif"
       },
       {
         "key": "linedog-喂",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-喂.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-喂.gif"
       },
       {
         "key": "linedog-好棒",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-好棒.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-好棒.gif"
       },
       {
         "key": "linedog-好痛",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-好痛.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-好痛.gif"
       },
       {
         "key": "linedog-好耶",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-好耶.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-好耶.gif"
       },
       {
         "key": "linedog-威胁",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-威胁.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-威胁.gif"
       },
       {
         "key": "linedog-完成",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-完成.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-完成.gif"
       },
       {
         "key": "linedog-寻找",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-寻找.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-寻找.gif"
       },
       {
         "key": "linedog-庆祝",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-庆祝.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-庆祝.gif"
       },
       {
         "key": "linedog-开心",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-开心.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-开心.gif"
       },
       {
         "key": "linedog-惊",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-惊.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-惊.gif"
       },
       {
         "key": "linedog-惊讶",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-惊讶.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-惊讶.gif"
       },
       {
         "key": "linedog-惊讶2",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-惊讶2.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-惊讶2.gif"
       },
       {
         "key": "linedog-打你",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-打你.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-打你.gif"
       },
       {
         "key": "linedog-打你2",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-打你2.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-打你2.gif"
       },
       {
         "key": "linedog-指",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-指.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-指.gif"
       },
       {
         "key": "linedog-探头",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-探头.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-探头.gif"
       },
       {
         "key": "linedog-摇摆",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-摇摆.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-摇摆.gif"
       },
       {
         "key": "linedog-摊手",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-摊手.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-摊手.gif"
       },
       {
         "key": "linedog-晃脚脚",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-晃脚脚.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-晃脚脚.gif"
       },
       {
         "key": "linedog-期待",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-期待.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-期待.gif"
       },
       {
         "key": "linedog-来了",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-来了.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-来了.gif"
       },
       {
         "key": "linedog-歪头",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-歪头.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-歪头.gif"
       },
       {
         "key": "linedog-沮丧",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-沮丧.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-沮丧.gif"
       },
       {
         "key": "linedog-画圈圈",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-画圈圈.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-画圈圈.gif"
       },
       {
         "key": "linedog-略",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-略.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-略.gif"
       },
       {
         "key": "linedog-盯",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-盯.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-盯.gif"
       },
       {
         "key": "linedog-看窗外1",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-看窗外1.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-看窗外1.gif"
       },
       {
         "key": "linedog-看窗外2",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-看窗外2.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-看窗外2.gif"
       },
       {
         "key": "linedog-紧张",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-紧张.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-紧张.gif"
       },
       {
         "key": "linedog-翘脚脚",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-翘脚脚.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-翘脚脚.gif"
       },
       {
         "key": "linedog-谢谢",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-谢谢.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-谢谢.gif"
       },
       {
         "key": "linedog-转圈",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-转圈.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-转圈.gif"
       },
       {
         "key": "linedog-送你花花",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-送你花花.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-送你花花.gif"
       },
       {
         "key": "linedog-难过",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-难过.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-难过.gif"
       },
       {
         "key": "linedog-震惊",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-震惊.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-震惊.gif"
       },
       {
         "key": "linedog-非常好",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-非常好.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-非常好.gif"
       },
       {
         "key": "linedog-颓废",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-颓废.gif"
+        "val": "https://owo.liiiu.cn/linedog/linedog-颓废.gif"
       }
     ]
   },
@@ -539,87 +555,87 @@
     "items": [
       {
         "key": "bilibili-doge",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-doge.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-doge.png"
       },
       {
         "key": "bilibili-亲亲",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-亲亲.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-亲亲.png"
       },
       {
         "key": "bilibili-偷笑",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-偷笑.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-偷笑.png"
       },
       {
         "key": "bilibili-再见",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-再见.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-再见.png"
       },
       {
         "key": "bilibili-冷漠",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-冷漠.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-冷漠.png"
       },
       {
         "key": "bilibili-发怒",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-发怒.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-发怒.png"
       },
       {
         "key": "bilibili-发财",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-发财.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-发财.png"
       },
       {
         "key": "bilibili-可爱",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-可爱.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-可爱.png"
       },
       {
         "key": "bilibili-吐血",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-吐血.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-吐血.png"
       },
       {
         "key": "bilibili-呆",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-呆.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-呆.png"
       },
       {
         "key": "bilibili-呕吐",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-呕吐.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-呕吐.png"
       },
       {
         "key": "bilibili-困",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-困.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-困.png"
       },
       {
         "key": "bilibili-坏笑",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-坏笑.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-坏笑.png"
       },
       {
         "key": "bilibili-大佬",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-大佬.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-大佬.png"
       },
       {
         "key": "bilibili-大哭",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-大哭.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-大哭.png"
       },
       {
         "key": "bilibili-委屈",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-委屈.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-委屈.png"
       },
       {
         "key": "bilibili-害羞",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-害羞.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-害羞.png"
       },
       {
         "key": "bilibili-尴尬",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-尴尬.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-尴尬.png"
       },
       {
         "key": "bilibili-微笑",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-微笑.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-微笑.png"
       },
       {
         "key": "bilibili-思考",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-思考.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-思考.png"
       },
       {
         "key": "bilibili-惊吓",
-        "val": "https://fastly.jsdelivr.net/gh/willow-god/owo/bilibili/bilibili-惊吓.png"
+        "val": "https://owo.liiiu.cn/bilibili/bilibili-惊吓.png"
       }
     ]
   }
